@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30 day Workout</string>
+    <string name="day_1_title">Mindful Breathing</string>
+    <string name="day_1_description">Start your journey by focusing on your breath. Spend 10 minutes practicing mindful breathing to center yourself and reduce stress.</string>
+
+    <string name="day_2_title">Morning Stretching</string>
+    <string name="day_2_description">Begin your day with a series of gentle stretches to loosen up your muscles and get the blood flowing. Hold each stretch for 30 seconds and breathe deeply.</string>
+
+    <string name="day_3_title">High-Intensity Interval Training (HIIT)</string>
+    <string name="day_3_description">Push yourself to new heights with HIIT! Alternate between intense bursts of exercise and brief periods of rest to boost your metabolism and burn fat. Start with 10-minute intervals and increase as you build endurance.</string>
+
+    <string name="day_4_title">Yoga Flow</string>
+    <string name="day_4_description">Find your inner peace with a flowing yoga sequence. Connect with your breath and move through a series of gentle stretches to balance body and mind. Hold each pose for 3–5 breaths.</string>
+
+    <string name="day_5_title">Strength Training</string>
+    <string name="day_5_description">Build lean muscle mass with strength training exercises that target all major muscle groups. Start with light weights and progress as you build strength. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_6_title">Cardio Kickboxing</string>
+    <string name="day_6_description">Get your heart rate up and burn calories with cardio kickboxing! Alternate between high-energy punches, kicks, and footwork to boost metabolism and improve coordination. Start with 20-minute sessions and increase as you build endurance.</string>
+
+    <string name="day_7_title">Power Yoga</string>
+    <string name="day_7_description">Take your yoga practice to the next level with power yoga! Move through a series of challenging poses that will push you to new heights and leave you feeling empowered. Hold each pose for 3–5 breaths.</string>
+
+    <string name="day_8_title">Core Strengthening</string>
+    <string name="day_8_description">Strengthen your core muscles with a series of exercises that target the abs, obliques, and lower back. Start with light weights and progress as you build strength. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_9_title">Pilates Flow</string>
+    <string name="day_9_description">Connect with your core and move through a series of flowing pilates exercises that will challenge your balance, flexibility, and coordination. Hold each pose for 3–5 breaths.</string>
+
+    <string name="day_10_title">Meditation Break</string>
+    <string name="day_10_description">Take a break from the physical activity and focus on your mental well-being with guided meditation. Spend 10 minutes quieting your mind, breathing deeply, and finding inner peace.</string>
+
+    <string name="day_11_title">HIIT Cardio</string>
+    <string name="day_11_description">Increase the intensity of your HIIT workouts with cardio exercises that will push you to new heights! Alternate between high-energy movements and brief periods of rest to boost metabolism and burn fat.</string>
+
+    <string name="day_12_title">Strength Training Circuit</string>
+    <string name="day_12_description">Challenge yourself with a strength training circuit that targets all major muscle groups. Move through the exercises in quick succession, resting for 30–60 seconds between stations.</string>
+
+    <string name="day_13_title">Yoga Balance Flow</string>
+    <string name="day_13_description">Test your balance and flexibility with a flowing yoga sequence that challenges your coordination and concentration. Hold each pose for 3–5 breaths.</string>
+
+    <string name="day_14_title">Power Walking</string>
+    <string name="day_14_description">Boost your cardiovascular health with power walking! Alternate between brisk strides, high knees, and other dynamic movements to increase heart rate and burn calories.</string>
+
+    <string name="day_15_title">Pilates Core Strengthening</string>
+    <string name="day_15_description">Strengthen your core muscles with a series of pilates exercises that target the abs, obliques, and lower back. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_16_title">Strength Training Challenge</string>
+    <string name="day_16_description">Push yourself to new heights with strength training challenges that will test your endurance! Start with light weights and progress as you build strength. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_17_title">Cardio Kickboxing Circuit</string>
+    <string name="day_17_description">Increase the intensity of your cardio kickboxing workouts with a circuit that challenges your coordination, agility, and endurance! Alternate between high-energy punches, kicks, and footwork.</string>
+
+    <string name="day_18_title">Meditation Focus</string>
+    <string name="day_18_description">Focus on your mental well-being with guided meditation exercises that will challenge your concentration and calmness. Spend 10 minutes quieting your mind and finding inner peace.</string>
+
+    <string name="day_19_title">High-Intensity Training (HIT)</string>
+    <string name="day_19_description">Increase the intensity of your workouts with HIT! Alternate between intense bursts of exercise and brief periods of rest to boost metabolism and burn fat. Start with 10-minute intervals and increase as you build endurance.</string>
+
+    <string name="day_20_title">Strength Training Flow</string>
+    <string name="day_20_description">Move through a series of strength training exercises that target all major muscle groups, flowing from one movement to the next without rest. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_21_title">Pilates Core Engagement</string>
+    <string name="day_21_description">Engage your core muscles with a series of pilates exercises that target the abs, obliques, and lower back. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_22_title">Cardio Dance Party</string>
+    <string name="day_22_description">Get moving and have fun with cardio dance! Move through a series of energetic dances that will challenge your coordination, balance, and cardiovascular health. Start with 20-minute sessions and increase as you build endurance.</string>
+
+    <string name="day_23_title">Strength Training Challenge</string>
+    <string name="day_23_description">Push yourself to new heights with strength training challenges that will test your endurance! Start with light weights and progress as you build strength. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_24_title">Yoga Balance Flow</string>
+    <string name="day_24_description">Test your balance and flexibility with a flowing yoga sequence that challenges your coordination and concentration. Hold each pose for 3–5 breaths.</string>
+
+    <string name="day_25_title">Pilates Flow</string>
+    <string name="day_25_description">Connect with your core and move through a series of flowing pilates exercises that will challenge your balance, flexibility, and coordination. Hold each pose for 3–5 breaths.</string>
+
+    <string name="day_26_title">Meditation Mindfulness</string>
+    <string name="day_26_description">Focus on mindfulness and calmness with guided meditation exercises that will challenge your concentration and inner peace. Spend 10 minutes quieting your mind and finding serenity.</string>
+
+    <string name="day_27_title">Cardio HIIT</string>
+    <string name="day_27_description">Increase the intensity of your cardio workouts with HIIT! Alternate between intense bursts of exercise and brief periods of rest to boost metabolism and burn fat. Start with 10-minute intervals and increase as you build endurance.</string>
+
+    <string name="day_28_title">Strength Training Circuits</string>
+    <string name="day_28_description">Challenge yourself with strength training circuits that target all major muscle groups! Move through the exercises in quick succession, resting for 30–60 seconds between stations.</string>
+
+    <string name="day_29_title">Pilates Core Strengthening</string>
+    <string name="day_29_description">Strengthen your core muscles with a series of pilates exercises that target the abs, obliques, and lower back. Focus on proper form and technique to avoid injury.</string>
+
+    <string name="day_30_title">Final Challenge</string>
+    <string name="day_30_description">Congratulations! You\'ve reached the final challenge of our 30-day workout program! Test your endurance with a series of high-intensity exercises that will push you to new heights. Focus on proper form and technique to avoid injury.</string>
+
+</resources>
